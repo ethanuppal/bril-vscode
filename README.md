@@ -1,14 +1,16 @@
 # Bril extension for VSCode
 
-## Setup
+## IMPORTANT Setup
 
-**Important**: Install the Bril LSP before using this extension:
+Install the Bril LSP before using this extension.
+First, [install a Rust toolchain](https://rustup.rs) and then run:
 
 ```
 cargo install --locked --git https://gitlab.com/ethanuppal/cs6120 bril-lsp
 ```
 
-Once you've installed it, disable and reenable this extension.
+Once you've installed it, disable and reenable this extension if you already
+installed the extension.
 
 ## LSP Crashes
 

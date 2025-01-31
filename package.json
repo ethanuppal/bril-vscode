@@ -3,7 +3,7 @@
   "displayName": "Bril",
   "description": "Bril language support",
   "version": "0.1.0",
-  "license": "to be determined",
+  "license": "GPL-3.0",
   "homepage": "https://github.com/ethanuppal/bril-vscode",
   "publisher": "EthanUppal",
   "icon": "logo.png",

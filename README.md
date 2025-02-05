@@ -1,3 +1,7 @@
+> [!NOTICE]
+> This project has been moved to the monorepo
+> [bril-lsp/bril-vscode](https://github.com/ethanuppal/bril-lsp/tree/main/bril-vscode)
+
 # Bril extension for VSCode
 
 ## IMPORTANT Setup
